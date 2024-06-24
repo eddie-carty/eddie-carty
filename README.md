@@ -19,6 +19,10 @@
   - [Creating an algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Creating an algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>Training Programs</h2>
+
+- [Anti Phishing Training Initiative - Plan](https://docs.google.com/document/d/1xw7UC10XWTto9XB01g-tju7vH4N4QNBXYZpmMNkLNnE/edit?usp=sharing)
+- [Anti Phishing Training Presentation Deck](https://www.canva.com/design/DAGI_o1iSqI/gDlGarnRiWTcbueAlyzwmw/edit)
 
 ## Tools
 
