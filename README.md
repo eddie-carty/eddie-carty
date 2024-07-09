@@ -16,8 +16,7 @@
   - [Static Passive Analysis](https://github.com/joshmadakor1/EncrypterPOC)
   - [Dynamic Active Analysis](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
-  - [Creating an algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Creating an algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
 
 <h2>Training Programs</h2>
 
