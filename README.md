@@ -13,6 +13,7 @@
 - <b>Building a Honeypot</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Malware Analysis</b>
+  - [Creating a Malware Analysis Lab](https://github.com/eddie-carty/MalwareAnalysisLab)
   - [Static Passive Analysis](https://github.com/joshmadakor1/EncrypterPOC)
   - [Dynamic Active Analysis](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
