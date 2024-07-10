@@ -14,7 +14,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Malware Analysis</b>
   - [Creating a Malware Analysis Lab](https://github.com/eddie-carty/MalwareAnalysisLab)
-  - [Static Passive Analysis](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Static Passive Analysis](https://github.com/eddie-carty/StaticMalwareAnalysis)
   - [Dynamic Active Analysis](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
