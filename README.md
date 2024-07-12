@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Malware Analysis</b>
+  - [Creating a Malware Analysis Lab](https://github.com/eddie-carty/MalwareAnalysisLab)
+  - [Static Passive Analysis](https://github.com/eddie-carty/StaticMalwareAnalysis)
+  - [Dynamic Active Analysis](https://github.com/eddie-carty/Coming-soon)
+- <b>Python</b>
+  - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
 - <b>Creating Networks</b>
   - [Creating an OSPF network in Cisco Packet Tracer - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>PowerShell</b>
@@ -12,12 +18,6 @@
   - [Configuring a SIEM in Microsoft Azure - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building a Honeypot</b>
   - [Creating a Honeypot (Microsoft Azure) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
-- <b>Malware Analysis</b>
-  - [Creating a Malware Analysis Lab](https://github.com/eddie-carty/MalwareAnalysisLab)
-  - [Static Passive Analysis](https://github.com/eddie-carty/StaticMalwareAnalysis)
-  - [Dynamic Active Analysis](https://github.com/eddie-carty/Coming-soon)
-- <b>Python</b>
-  - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
 
 <h2>Training Programs</h2>
 
