@@ -24,34 +24,20 @@
 - [Anti Phishing Training Initiative - Plan](https://docs.google.com/document/d/1xw7UC10XWTto9XB01g-tju7vH4N4QNBXYZpmMNkLNnE/edit?usp=sharing)
 - [Anti Phishing Training Presentation Deck](https://www.canva.com/design/DAGI_o1iSqI/gDlGarnRiWTcbueAlyzwmw/edit)
 
-## Tools
-
-
-| Category                                      | Tools Used                 |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Splunk|
-| Network Traffic Monitoring and Attack Detection | Wireshark|
-| Security Automation with Shuffle SOAR         | Nmap|
-| Incident Response Planning and Execution      | Example|
-| Vulnerability Scanners                  | Nessus|
-| Scripting and Automation for Threat Mitigation | Python, SQL|
-
 ## Skills
 
+
 | Category                                      | Tools Used                 |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Splunk|
-| Network Traffic Monitoring and Attack Detection | Wireshark|
-| Security Automation with Shuffle SOAR         | Nmap|
-| Incident Response Planning and Execution      | Example|
+| SIEM Implementation and Log Analysis          | Splunk, Wireshark, Azure|
+| Network Traffic Monitoring and Attack Detection | NMap, ProcessHacker, Regshot, Procmon|
+| Security Automation with Shuffle SOAR         | QRadar, Splunk|
+| Incident Response Planning and Execution      | Trello, SentinelOne, Suricata|
 | Vulnerability Scanners                  | Nessus|
 | Scripting and Automation for Threat Mitigation | Python, SQL|
+
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Project Walkthroughs - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 
