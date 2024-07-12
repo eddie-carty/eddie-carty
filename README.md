@@ -3,19 +3,19 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Networks</b>
-  - [Creating an OSPF network in Cisco Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating an OSPF network in Cisco Packet Tracer - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [JWipe (Disk Wiping Utility) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [Active Directory Bulk User Creation - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [FIM (File Integrity Monitor) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building and configuring a SIEM</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Configuring a SIEM in Microsoft Azure - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building a Honeypot</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Creating a Honeypot (Microsoft Azure) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Malware Analysis</b>
   - [Creating a Malware Analysis Lab](https://github.com/eddie-carty/MalwareAnalysisLab)
   - [Static Passive Analysis](https://github.com/eddie-carty/StaticMalwareAnalysis)
-  - [Dynamic Active Analysis](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Dynamic Active Analysis](https://github.com/eddie-carty/Coming-soon)
 - <b>Python</b>
   - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
 
