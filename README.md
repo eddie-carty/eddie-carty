@@ -9,15 +9,15 @@
 - <b>Python</b>
   - [Create a file hash analyzer](https://github.com/eddie-carty/PythonHashingScript)
 - <b>Creating Networks</b>
-  - [Creating an OSPF network in Cisco Packet Tracer - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [Creating an OSPF network in Cisco Packet Tracer](https://github.com/eddie-carty/OSPFNetwork)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
-  - [Active Directory Bulk User Creation - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
-  - [FIM (File Integrity Monitor) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [JWipe (Disk Wiping Utility) - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [Active Directory Bulk User Creation - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [FIM (File Integrity Monitor) - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building and configuring a SIEM</b>
-  - [Configuring a SIEM in Microsoft Azure - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [Configuring a SIEM in Microsoft Azure - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building a Honeypot</b>
-  - [Creating a Honeypot (Microsoft Azure) - IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
+  - [Creating a Honeypot (Microsoft Azure) - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 
 <h2>Training Programs</h2>
 
