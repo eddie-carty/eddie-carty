@@ -11,9 +11,7 @@
 - <b>Creating Networks</b>
   - [Creating an OSPF network in Cisco Packet Tracer](https://github.com/eddie-carty/OSPFNetwork)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility) - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
   - [Active Directory Bulk User Creation - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
-  - [FIM (File Integrity Monitor) - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building and configuring a SIEM</b>
   - [Configuring a SIEM in Microsoft Azure - DOCUMENTATION IN PROGRESS](https://github.com/eddie-carty/Coming-soon)
 - <b>Building a Honeypot</b>
